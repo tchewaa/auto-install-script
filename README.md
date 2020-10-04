@@ -1,1 +1,1 @@
-# Automation script to install softwares on ubunto OS
+# Automation script to install softwares on ubuntu OS
