@@ -14,3 +14,7 @@ echo "vim installation complete"
 echo "installing zoom"
 sudo snap install zoom-client -y
 echo "zoom installation complete"
+
+echo "installing npm"
+sudo apt install npm
+echo "npm installation complete"
